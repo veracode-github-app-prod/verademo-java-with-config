@@ -11,10 +11,10 @@ Blab-a-Gag is a fairly simple forum type application which allows:
 ### URLs
 
 `/reset` will reset the data in the database with a load of:
- - users
+ - users  
  - jokes
  - heckles
-  
+  test 
 `/feed` shows the jokes/heckles that are relevant to the current user.
 
 `/blabbers` shows a list of all other users and allows the current user to listen or ignore.
@@ -23,7 +23,7 @@ Blab-a-Gag is a fairly simple forum type application which allows:
 
 `/login` allows you to log in to your account
 
-`/register` allows you to create a new user account
+`/register` allows you to create a new user account  
 
 `/tools` shows a tools page that shows a fortune or lets you ping a host.
 
